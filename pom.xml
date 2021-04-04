@@ -28,7 +28,6 @@
 					</executions>
 					<configuration>
 						
-						<testFailureIgnore>true</testFailureIgnore>
 						<sourceDirectory>${basedir}/src/main/java</sourceDirectory>
 						<listener>true</listener>
 						<visitor>true</visitor>
